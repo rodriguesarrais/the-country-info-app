@@ -1,4 +1,4 @@
-# Full-Stack JS engineer test assessment - The Country Info App
+# The Country Info App
 
 # How to run the project
 
